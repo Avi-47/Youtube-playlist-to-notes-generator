@@ -345,19 +345,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📞 Support
-
-Having issues? Here's how to get help:
-
-1. **Check** the [Troubleshooting](#-troubleshooting) section
-2. **Search** existing [Issues](https://github.com/yourusername/youtube-notes-generator/issues)
-3. **Open** a new issue with:
-   - Your OS and Python version
-   - Full error message
-   - Steps to reproduce
-
----
-
 ## ⭐ Star History
 
 If this project helped you, consider giving it a ⭐ on GitHub!
@@ -373,3 +360,4 @@ If this project helped you, consider giving it a ⭐ on GitHub!
 [Report Bug](https://github.com/yourusername/youtube-notes-generator/issues) · [Request Feature](https://github.com/yourusername/youtube-notes-generator/issues)
 
 </div>
+
